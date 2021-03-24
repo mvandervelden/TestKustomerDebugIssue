@@ -4,6 +4,7 @@ Test project illustrating the issue with a crashing debugger when using the Kust
 ## Instructions:
 - Clone the repo
 - Run `pod install` to install the KustomerChat pod
+- Open `TestKustomerDebugIssue.xcworkspace` in Xcode.
 - Make sure the shared breakpoint on `ViewController.viewDidLoad` is enabled
 - Run the app using the default scheme.
 - When the breakpoint hits, try to use the lldb debugger, like `po self`.
