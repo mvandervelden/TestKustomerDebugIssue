@@ -1,0 +1,49 @@
+*.swp
+
+# Xcode
+#
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xcuserdatad
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+.DS_Store
+default.profraw
+.secrets
+
+# Appcode
+.idea/
+
+# CocoaPods
+Pods/
+
+# Fastlane
+fastlane/report.xml
+fastlane/test_output
+unused
+
+# GTM
+Catawiki/Resources/GTM/container
+
+# GYB
+Tools/gyb/Scripts/gyb.pyc
+
+# CircleCI
+vendor/
+.bundle/
+
+# Release Notes
+fastlane/.fl_clone_csv_file/ # when developer will open a new translation-request
+.fl_clone_csv_file/ # when CI will inject the release notes
