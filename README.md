@@ -11,6 +11,7 @@ Test project illustrating the issue with a crashing debugger when using the Kust
 
 Actual result:
 > error: virtual filesystem overlay file '/Users/willjessop/Library/Developer/Xcode/DerivedData/KustomerChat-gazxbyilqfnjffggjihizkgmftvo/Build/Intermediates.noindex/ArchiveIntermediates/KustomerChat/IntermediateBuildFilesPath/KustomerChat.build/Release-iphonesimulator/KustomerChat.build/all-product-headers.yaml' not found
+> 
 > error: couldn't IRGen expression. Please check the above error messages for possible root causes.
 
 Expected result:
