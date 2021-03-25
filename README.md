@@ -1,5 +1,5 @@
 # TestKustomerDebugIssue
-Test project illustrating the issue with a crashing debugger when using the KustomerChat sdk 2.0.7
+Test project illustrating the issue with a crashing debugger when using the KustomerChat sdk 2.0.7 & 2.1.0
 
 ## Instructions:
 - Clone the repo
