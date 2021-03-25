@@ -1,22 +1,22 @@
 PODS:
-  - KustomerChat (2.0.7)
+  - KustomerChat (2.1.0)
 
 DEPENDENCIES:
-  - KustomerChat (from `https://github.com/kustomer/kustomer-ios.git`, tag `2.0.7`)
+  - KustomerChat (from `https://github.com/kustomer/kustomer-ios.git`, tag `2.1.0`)
 
 EXTERNAL SOURCES:
   KustomerChat:
     :git: https://github.com/kustomer/kustomer-ios.git
-    :tag: 2.0.7
+    :tag: 2.1.0
 
 CHECKOUT OPTIONS:
   KustomerChat:
     :git: https://github.com/kustomer/kustomer-ios.git
-    :tag: 2.0.7
+    :tag: 2.1.0
 
 SPEC CHECKSUMS:
-  KustomerChat: b586e36b2820ade4087f631cd328470796387ac7
+  KustomerChat: aff3df03e206a7d7a2f1ffaf5a849239e3e82675
 
-PODFILE CHECKSUM: 6bf8be3473ec3789061901f1f34905510dfe16d5
+PODFILE CHECKSUM: 78a61b0124f870e64e704de02443799e0349de5f
 
 COCOAPODS: 1.10.1
