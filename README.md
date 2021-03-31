@@ -17,6 +17,15 @@ Actual result:
 Expected result:
 - The debugger responds with a representation of `self`.
 
+### Instructions for SPM:
+- Clone the repo
+- Open the Xcode project under `TestKustomerSPM/TestKustomerDebugger.xcodeproj`.
+- Make sure the shared breakpoint on `ViewController.viewDidLoad` is enabled
+- Run the app using the default scheme.
+- When the breakpoint hits, try to use the lldb debugger, like `po self`.
+
+The results are the same as above.
+
 ## Most likely cause & solution:
 [link](https://bugs.swift.org/browse/SR-12783?focusedCommentId=56540&page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-56540)
 
